@@ -66,10 +66,13 @@ Bringing together creativity and technical know-how, here are the tools and tech
 
 ## 📈 GitHub Stats and Contributions
 
+#   Github Stats
+
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehedifiz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D
-" width="45%" height="100%" alt="Github Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehedifiz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifiz&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="45%" height="100%" alt="Github Top Languages" />
