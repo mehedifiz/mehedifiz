@@ -68,15 +68,15 @@ Bringing together creativity and technical know-how, here are the tools and tech
 
 #   Github Stats
 
-<div align="center">
+ ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehedifiz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+| Top Languages | GitHub Stats |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
 
 
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifiz&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="45%" height="100%" alt="Github Top Languages" />
-</div>
+
 
 ---
 
