@@ -1,4 +1,4 @@
-﻿<h1 align="center" style="color:#FF6D00; animation: fadeIn 2s ease-in-out;">Hey there, I'm Mehedi 👋</h1>
+﻿<h1 align="center" style="color:#FF6D00; animation: fadeIn 2s ease-in-out;">Hey there, I'm Mehedi Hasan Shanto 👋</h1>
 <p align="center" style="color:#9E9E9E; animation: fadeIn 2s ease-in-out;">
   <em>A tech enthusiast with a knack for building seamless digital experiences. 🌌</em>
 </p>
@@ -66,9 +66,9 @@ Bringing together creativity and technical know-how, here are the tools and tech
 
 ## 📈 GitHub Stats and Contributions
 
-| Top Languages | GitHub Stats |
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+| Top Languages | GitHub Stats | GitHub streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedifiz&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | <img src="http://github-readme-streak-stats.herokuapp.com?user=mehedifiz&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" height="100%" alt="Github STat"/> |
 
 
 
@@ -81,8 +81,8 @@ Bringing together creativity and technical know-how, here are the tools and tech
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-shanto-8785b3277/" style="color:#FF6D00; font-weight: bold; text-decoration: none;">LinkedIn</a> • 
   <a href="https://mehedishanto.web.app/" style="color:#FF6D00; font-weight: bold; text-decoration: none;">Portfolio</a>
+  <a href="https://www.linkedin.com/in/mehedi-shanto/" style="color:#FF6D00; font-weight: bold; text-decoration: none;">LinkedIn</a> • 
 </p>
 
 ---
